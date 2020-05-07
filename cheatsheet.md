@@ -14,3 +14,4 @@ Afficher l'historique (1 commit par ligne):
 ```
 git log --oneline
 ```
+crée &changer de branche
