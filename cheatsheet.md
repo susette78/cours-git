@@ -1,5 +1,5 @@
 # Feuille de triche - Git
-
+Ajoute
 Vider le staging:
 ```
 git reset
